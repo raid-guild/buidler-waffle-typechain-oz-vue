@@ -1,6 +1,6 @@
 # Buidler + Waffle + TypeChain + OpenZeppelin CLI + Vue (TypeScript)
 
-Inspired by [The New Solidity Dev Stack: Buidler + Ethers + Waffle + Typescript](https://hackernoon.com/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-706830w0), this is a pre-configured starter kit that uses the latest and greatest tool set to go from zero to hero 💪 in a quarter of the time, with 10x the type safety 🛡️ and debugging 🐞 capabilities.
+Inspired by [The New Solidity Dev Stack: Buidler + Ethers + Waffle + Typescript](https://medium.com/@rahulsethuram/the-new-solidity-dev-stack-buidler-ethers-waffle-typescript-tutorial-f07917de48ae), this is a pre-configured starter kit that uses the latest and greatest tool set to go from zero to hero 💪 in a quarter of the time, with 10x the type safety 🛡️ and debugging 🐞 capabilities.
 
 Leverage best practice tools such as: Buidler 🔨 for stack traces and `console.log` in contracts, TypeChain 🔗 for contract and front end type definitions, Waffle 🥞 for type safe ethers.js contract testing, and Vue with TypeScript/TypeChain support 🎀 to round out the stack.
 
